@@ -1,5 +1,5 @@
 # OpenArray_Calls_Loading_into_Renvironment
-This repository holds a short script that allow loading a genetic dataset (genotype calls) derived from the OpenArray technology and transforming it into a handly-format file, which can be further imported to PLINK software. Basically the script carries out a dataset manipulation and transformation from long to wide format.
+This repository holds a short script that allow loading a genetic dataset (genotype calls) derived from the OpenArray technology and transforming it into a handly-format file, which can be further imported to PLINK software. Basically, this script carries out a dataset manipulation and transformation from long to wide format.
 
 In order to run the script, you will need:
 

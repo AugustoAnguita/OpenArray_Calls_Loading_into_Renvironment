@@ -1,4 +1,4 @@
-# R scripts for Openarray genotype data manipulation, transformation and statistical analysis.
+# R scripts for the manipulation, transformation and statistical analysis of Openarray genotype datasets.
 
 This repository holds two short scripts:
 
